@@ -33,7 +33,7 @@ h4 {
 .hdr {
   position:fixed;
   width:100%;
-  background:#06062c;
+  background:#5a92bd;
   color:white;
   font-weight:400;
   font-size:24pt;
@@ -68,7 +68,7 @@ h4 {
 .ftr > a:visited,
 .ftr > a:hover,
 .ftr > a:active {
-  color:#06062c;
+  color:#5a92bd;
   text-decoration: none;
 }
 
