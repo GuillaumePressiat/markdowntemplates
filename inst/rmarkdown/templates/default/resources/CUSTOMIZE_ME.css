@@ -36,10 +36,10 @@ h4 {
   background:#5a92bd;
   color:white;
   font-weight:400;
-  font-size:24pt;
+  font-size:14pt;
   height:40pt;
-  padding:2px;
-  padding-right:10px;
+  padding:11px;
+  padding-right:20px;
   top: 0;
   z-index: 100;
   text-align:right;
@@ -54,7 +54,7 @@ h4 {
 }
 
 .hdr > a:hover {
-  color:#5a92bd;
+  color:#BCD58D;
 }
 
 .ftr {
@@ -75,4 +75,3 @@ h4 {
 .ftr > a:hover {
   color:#5a92bd;
 }
-
