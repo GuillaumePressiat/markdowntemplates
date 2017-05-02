@@ -1,6 +1,6 @@
 .authordate {
-  border-top:1px solid #94bd5a;
-  border-bottom:1px solid #94bd5a;
+  border-top:1px solid #5a92bd;
+  border-bottom:1px solid #5a92bd;
   margin-bottom:30px;
 }
 
@@ -16,17 +16,17 @@ h1 {
 }
 
 h2 {
-  color: #94bd5a;
+  color: #5a92bd;
   font-weight:500;
 }
 
 h3 {
-  color: #94bd5a;
+  color: #5a92bd;
   font-weight:400;
 }
 
 h4 {
-  color: #94bd5a;
+  color: #5a92bd;
   font-weight:300;
 }
 
@@ -54,11 +54,11 @@ h4 {
 }
 
 .hdr > a:hover {
-  color:#94bd5a;
+  color:#5a92bd;
 }
 
 .ftr {
-  border-top:1px solid #94bd5a;
+  border-top:1px solid #5a92bd;
   margin-top:30px;
   text-align:center;
   font-size:10px;
@@ -73,6 +73,6 @@ h4 {
 }
 
 .ftr > a:hover {
-  color:#94bd5a;
+  color:#5a92bd;
 }
 
