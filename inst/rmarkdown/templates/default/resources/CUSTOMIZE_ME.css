@@ -1,6 +1,6 @@
 .authordate {
-  border-top:1px solid #5a92bd;
-  border-bottom:1px solid #5a92bd;
+  border-top:1px solid #008ae6;
+  border-bottom:1px solid #008ae6;
   margin-bottom:30px;
 }
 
@@ -8,32 +8,39 @@ img { max-width:100%; }
 
 .main-container {
   margin-top:48pt;
-  color:#06062c;
+  color:#008ae6;
 }
 
 h1 {
-  font-weight:700;
-}
-
-h2 {
-  color: #5a92bd;
-  font-weight:500;
-}
-
-h3 {
-  color: #5a92bd;
+  color:#333399;
   font-weight:400;
 }
 
-h4 {
-  color: #5a92bd;
+h2 {
+  color:#333399;
   font-weight:300;
+}
+
+h3 {
+  color:#333399;
+  font-weight:250;
+}
+
+h4 {
+  color: #333399;
+  font-weight:200;
+}
+
+h5 {
+  color: #333399;
+  font-weight:100;
 }
 
 .hdr {
   position:fixed;
   width:100%;
-  background:#5a92bd;
+  background:#008ae6;
+  border-bottom:3px solid #522d80;
   color:white;
   font-weight:400;
   font-size:14pt;
@@ -54,11 +61,11 @@ h4 {
 }
 
 .hdr > a:hover {
-  color:#BCD58D;
+  color:#cd754c;
 }
 
 .ftr {
-  border-top:1px solid #5a92bd;
+  border-top:1px solid #008ae6;
   margin-top:30px;
   text-align:center;
   font-size:10px;
@@ -68,12 +75,12 @@ h4 {
 .ftr > a:visited,
 .ftr > a:hover,
 .ftr > a:active {
-  color:#5a92bd;
+  color:#008ae6;
   text-decoration: none;
 }
 
 .ftr > a:hover {
-  color:#5a92bd;
+  color:#008ae6;
 }
 
 .flat-table {
@@ -85,16 +92,31 @@ h4 {
   width: auto;
 }
 th {
-  background-color: rgb(112, 196, 105);
+  background-color: rgb(150, 150, 150);
   color: white;
   font-weight: normal;
   padding: 20px 30px;
   height:40px
   text-align: center;
 }
+
 td {
   background-color: rgb(238, 238, 238);
   color: rgb(111, 111, 111);
   padding: 3px 3px;
   height:25px
+}
+
+a {
+    color: #6495ed;
+}
+
+/* visited link */
+a:visited {
+    color: #008040;
+}
+
+/* mouse over link */
+a:hover {
+    color: #cd754c;
 }
